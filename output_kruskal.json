@@ -1,0 +1,10 @@
+{"algorithm":"Kruskal","mst_edges":[
+  {"from":"B","to":"C","weight":1},
+  {"from":"A","to":"B","weight":2},
+  {"from":"B","to":"D","weight":4},
+  {"from":"C","to":"E","weight":6}],
+  "total_cost":13,
+  "vertices":5,
+  "edges":7,
+  "operations":14,
+  "execution_time_ms":2}
